@@ -1,0 +1,49 @@
+html{
+    background-color: rgb(150, 227, 227);
+}
+h1{
+    font-family:'Courier New', Courier, monospace ;
+    color: blueviolet;
+}
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: brown;
+}
+.blue-text{
+    color:blue;
+    background-color: pink;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.purple-text{
+    color:purple;
+    background-color: burlywood;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.green-text{
+    color:green;
+    background-color:yellowgreen;
+}
+.red-text{
+    color:red;
+    background-color: darkgray;
+}
+.brown-text{
+    color:brown;
+    background-color: aqua;
+}
+.navy-text{
+    color:navy;
+    background-color: blanchedalmond;
+}
+.yellow-text{
+    color:yellow;
+    background-color:gray;
+}
+.orange-text{
+    color:orange;
+    background-color:darkslategray;
+}
+.creem-text{
+    color:chartreuse;
+
+}
